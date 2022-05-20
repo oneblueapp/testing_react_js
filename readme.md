@@ -45,6 +45,18 @@ Ao final da construção do Código o Candidato(a) deverá enviar o que foi cons
 - Clone o projeto
 - No terminal rode o comando yarn / npm install (caso utilize npm)
 - Após o download das dependências rode no terminal o comando: yarn start / npm start
+- Rotas: POST:(/user/cadaster) e POST: (/login)
+
+
+Input:
+```JSON
+{
+"name": "Fulano",
+"password": "senha"
+}
+
+```
+
 
 
 <hr>
