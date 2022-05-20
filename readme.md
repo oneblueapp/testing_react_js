@@ -21,7 +21,7 @@
 
 - As questões devem ser entregues em ATÉ 3 dias, os 3 dias são contados a partir do envio das questões ao Candidato(a).
 
-- O Envio das Respostas deve ser realizado em um Repositorio Privado, desta forma o candidato(a) deverá gerar um Link e Envia-lo no LinkedIn de Douglas Negrisolli e adicionar os usuários: @fnsdeividy @joalissongomes1994 @oneblueapp como Membro do Repositorio para que as respostas fiquem visiveis.
+- O Envio das Respostas deve ser realizado em um Repositorio Privado, desta forma o candidato(a) deverá gerar um Link e Envia-lo no LinkedIn de Douglas Negrisolli e adicionar os usuários: @fnsdeividy @joalissongomes1994 @dnegrisolli como Membro do Repositorio para que as respostas fiquem visiveis.
 
 <hr>
 
